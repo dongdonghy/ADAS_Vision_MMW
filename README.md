@@ -1,4 +1,4 @@
-# Object Detection with MMW and Vision in Bad weather
+# Object Detection with MMW and Vision in Bad Weather
 
 ## Overview
 
@@ -7,7 +7,7 @@ haze weather is the most frequently reported harsh traffic weather, as haze affe
 * Object detection using MMW and other sensors
 
 ## Dependencies
-* ROS Kinetic
+* Kinetic of ROS
 * Opencv2.4
 
 ## Sensors
@@ -20,10 +20,10 @@ haze weather is the most frequently reported harsh traffic weather, as haze affe
 ## Results
 
 ### Haze Removal
-![image](https://github.com/dongdonghy/ADAS_Vision_MMV/raw/master/images/haze_removal.jpg)
+![image](https://github.com/dongdonghy/ADAS_Vision_MMV/raw/master/outputs/haze_removal.jpg)
 
 ### rainy and foggy weather
-![image](https://github.com/dongdonghy/ADAS_Vision_MMV/raw/master/images/rainy_haze.png)
+![image](https://github.com/dongdonghy/ADAS_Vision_MMV/raw/master/outputs/rainy_haze.png)
 
 ### Night
-![image](https://github.com/dongdonghy/ADAS_Vision_MMV/raw/master/images/night.png)
+![image](https://github.com/dongdonghy/ADAS_Vision_MMV/raw/master/outputs/night.png)
