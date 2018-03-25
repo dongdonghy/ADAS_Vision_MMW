@@ -11,11 +11,11 @@ haze weather is the most frequently reported harsh traffic weather, as haze affe
 * Opencv2.4
 
 ## Sensors
-* ESR MMW
-* IMU
-* SEC
+* Millimeter Wave Radar: Delphi ESR
+* IMU: JY-901
+* SEC: 315
 * Monocular Camera
-* GPS
+* GPS: Trimble BD910
 
 ## Results
 
